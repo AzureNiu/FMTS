@@ -1,0 +1,10 @@
+ucli
+pm
+port-add 1/- 100G none
+port-add 2/- 100G none
+port-add 5/- 100G none
+port-add 3/0 100G none
+port-enb -/-
+port-loopback 2/- mac-near
+exit
+exit

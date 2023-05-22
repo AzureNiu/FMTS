@@ -1,0 +1,4 @@
+/home/lab1806/niux/rdma-example-master/CMakeFiles/rdma_server.dir
+/home/lab1806/niux/rdma-example-master/CMakeFiles/rdma_client.dir
+/home/lab1806/niux/rdma-example-master/CMakeFiles/edit_cache.dir
+/home/lab1806/niux/rdma-example-master/CMakeFiles/rebuild_cache.dir

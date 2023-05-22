@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lab1806/niux/rdma-example-master/src/rdma_common.h
+errno.h
+-
+getopt.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+fcntl.h
+-
+arpa/inet.h
+-
+netdb.h
+-
+netinet/in.h
+-
+sys/socket.h
+-
+infiniband/verbs.h
+-
+rdma/rdma_cma.h
+-
+
+/home/lab1806/niux/rdma-example-master/src/rdma_server.c
+rdma_common.h
+/home/lab1806/niux/rdma-example-master/src/rdma_common.h
+pthread.h
+-
+
